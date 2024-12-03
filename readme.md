@@ -28,5 +28,11 @@ RAG:Retrieval Augment Generative
 * Retrieval-Augmented Generation for Large Language Models: A Survey  Fudan-Team
 ```
 
+### Agent
+```commandline
+Agent: llm as agent  
+* LLM Powered Autonomous Agents. From Lilian Weng's blog  
+```
+
 
 
