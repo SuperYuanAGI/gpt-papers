@@ -24,7 +24,7 @@ google series papers:
 
 ### RAG
 ```commandline
-RAG:Retrieval Augment Generative
+RAG:Retrieval Augmentation Generation
 * Retrieval-Augmented Generation for Large Language Models: A Survey  Fudan-Team
 ```
 
