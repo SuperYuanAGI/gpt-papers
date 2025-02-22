@@ -22,6 +22,13 @@ google series papers:
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 ```
 
+### DeepSeek
+```commandline
+DeepSeek series papers: 
+* DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via
+Reinforcement Learning
+```
+
 ### RAG
 ```commandline
 RAG:Retrieval Augmentation Generation
