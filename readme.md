@@ -39,6 +39,7 @@ RAG:Retrieval Augmentation Generation
 ```commandline
 Agent: llm as agent  
 * LLM Powered Autonomous Agents. From Lilian Weng's blog  
+* GAIA:A Benchmark for General AI Assistants
 ```
 
 
