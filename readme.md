@@ -6,6 +6,7 @@ Goal: hello,there will be a repo that used for collecting nice papers!
 milestone papers:
 * Transformer:Attention is all you need
 ```
+
 #### OpenAI
 ```commandline
 gpt series papers:
@@ -22,24 +23,30 @@ google series papers:
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 ```
 
-### DeepSeek
+#### DeepSeek
 ```commandline
 DeepSeek series papers: 
 * DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via
 Reinforcement Learning
 ```
 
-### RAG
+#### RAG
 ```commandline
 RAG:Retrieval Augmentation Generation
 * Retrieval-Augmented Generation for Large Language Models: A Survey  Fudan-Team
 ```
 
-### Agent
+#### Agent
 ```commandline
 Agent: llm as agent  
 * LLM Powered Autonomous Agents. From Lilian Weng's blog  
 * GAIA:A Benchmark for General AI Assistants
+```
+
+#### Generation
+```commandline
+self-instruct
+* SELF-INSTRUCT: AligningLanguageModels with Self-Generated Instructions
 ```
 
 
